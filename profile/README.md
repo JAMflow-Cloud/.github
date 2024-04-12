@@ -8,6 +8,7 @@ JAMflow Cloud is blending the power of low-code flexibility with high-tech capab
 We believe in giving back to the community that makes our work possible. Here's a list of projects and initiatives we're proud to support financially:
  - [Nuxt](https://github.com/nuxt): 🥉 Bronze Sponsor
  - [Pooya Parsa](https://github.com/pi0): ❤️ Spread the love
+ - [Stalwart Mail Server](https://github.com/stalwartlabs): Recognized Sponsor
 
 Join us in making the web a better place, one project at a time.
 
