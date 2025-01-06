@@ -9,6 +9,9 @@ We believe in giving back to the community that makes our work possible. Here's 
  - [Nuxt](https://github.com/nuxt): 🥉 Bronze Sponsor
  - [Pooya Parsa](https://github.com/pi0): ❤️ Spread the love
  - [Stalwart Mail Server](https://github.com/stalwartlabs): Recognized Sponsor
+ - [Daniel Roe](https://github.com/danielroe): ❤️ Huge thanks
+ - [Benjamin Canac](https://github.com/benjamincanac)
+ - [Estéban, Barbapapazes](https://github.com/Barbapapazes): Silver Sponsor 
 
 Join us in making the web a better place, one project at a time.
 
